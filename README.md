@@ -22,15 +22,17 @@ Use automated browsing to visit the Mars news site.
 Create a Beautiful Soup object and extract relevant text elements.
 Store the data in Python dictionaries and a list.
 Optionally, export the data to a JSON file.
-Here's the link to Jupyte Notebook and JSON file
+Here's the link to Jupyte Notebook and JSON file:
+https://github.com/pandarik/web-scraping/blob/main/part_1_mars_news.ipynb
+https://github.com/pandarik/web-scraping/blob/main/mars_news_scraped_data.json
+
+
 
 
 # Deliverable 2: Scrape and Analyze Mars Weather Data
 We’ll visit the Mars Temperature Data Site and extract temperature and atmospheric pressure data.
 The data will be organized into a Pandas DataFrame.
 We’ll clean, visualize, and analyze the data.
-
-
 
 #Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook part_2_mars_weather.ipynb.
@@ -47,7 +49,10 @@ Which months have the lowest and highest temperatures?
 Which months have the lowest and highest atmospheric pressure?
 How many terrestrial days exist in a Martian year?
 
-Here's the link to Jupyte Notebook and CSV file
+Here's the link to Jupyte Notebook and CSV file:
+https://github.com/pandarik/web-scraping/blob/main/part_2_mars_weather.ipynb
+https://github.com/pandarik/web-scraping/blob/main/mars_weather_data.csv
+
 
 
 # Acknowledgments
