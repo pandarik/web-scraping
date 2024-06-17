@@ -24,6 +24,7 @@ Store the data in Python dictionaries and a list.
 Optionally, export the data to a JSON file.
 Here's the link to Jupyte Notebook and JSON file:
 https://github.com/pandarik/web-scraping/blob/main/part_1_mars_news.ipynb
+
 https://github.com/pandarik/web-scraping/blob/main/mars_news_scraped_data.json
 
 
@@ -51,6 +52,7 @@ How many terrestrial days exist in a Martian year?
 
 Here's the link to Jupyte Notebook and CSV file:
 https://github.com/pandarik/web-scraping/blob/main/part_2_mars_weather.ipynb
+
 https://github.com/pandarik/web-scraping/blob/main/mars_weather_data.csv
 
 
